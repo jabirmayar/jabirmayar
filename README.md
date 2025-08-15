@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I’m passionate about technology, always keen to 
 
 - Frontend & Backend Web Development
 - Mobile App Development (Android/iOS)
-- JavaScript, HTML, CSS, React, Node.js, Flutter, Dart
-- Database Management: SQL, Firebase
+- Laravel, React, Node.js, Flutter
+- Database Management: SQL, Firebase and many more
 - Version Control: Git & GitHub
 
 ## 📫 Contact Me
