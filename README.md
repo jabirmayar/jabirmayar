@@ -1,30 +1,35 @@
 # Jabir Khan
 
-**Computer Science Student | Web & Mobile Application Developer**
+**Full Stack Developer | MS Software Engineering Student**
 
-Welcome to my GitHub profile! I’m passionate about technology, always keen to learn new skills, and actively working on web and mobile application projects.
+I build scalable web applications and SaaS platforms. Recently completed my Master's in Software Engineering while working remotely as a Full Stack Developer.
 
-## 🚀 About Me
+## About Me
 
-- 🧑‍🎓 Computer Science student
-- 💻 Web & Mobile application developer
-- 🌱 Always exploring new skills and technologies
-- 📫 Personal Website: [Jabirkhan.com](http://jabirkhan.com)
-- 👨‍💼 Hireable for freelance and collaborative projects
+- Full Stack Developer with 4+ years of experience
+- Specialized in Laravel, React, Node.js, and modern web technologies
+- Open source contributor - Creators Ticketing Plugin reached 1000+ downloads
+- Experience delivering CRM, e-commerce, and SaaS solutions for diverse clients
 
-## 🛠️ Skills
+## Technical Stack
 
-- Frontend & Backend Web Development
-- Mobile App Development (Android/iOS)
-- Laravel, React, Node.js, Flutter
-- Database Management: SQL, Firebase and many more
-- Version Control: Git & GitHub
+**Backend:** PHP, Laravel, Node.js, Express, RESTful APIs, Microservices
 
-## 📫 Contact Me
+**Frontend:** React, Vue.js, Flutter
 
-- Website: [Jabirkhan.com](http://jabirkhan.com)
-- GitHub: [jabirmayar](https://github.com/jabirmayar)
+**Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 
----
+**DevOps:** Git, Docker, CI/CD, Apache, Nginx
 
-> _Thanks for visiting! Connect with me for collaboration, project ideas, or if you just want to say hi!_
+## Currently
+
+- Working on full-stack applications with Laravel, React, and Node.js
+- Contributing to the Laravel/Filament open-source ecosystem
+
+## Contact
+
+- Website: [jabirkhan.com](https://jabirkhan.com)
+- LinkedIn: [linkedin.com/in/jabirkhan](https://linkedin.com/in/jabirkhan)
+- Email: hello@jabirkhan.com
+
+Available for freelance projects and collaboration opportunities.
