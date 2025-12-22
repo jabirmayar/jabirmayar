@@ -1,6 +1,6 @@
 # Jabir Khan
 
-**Full Stack Developer | MS Software Engineering Student**
+**Software Engineer**
 
 I build scalable web applications and SaaS platforms. Recently completed my Master's in Software Engineering while working remotely as a Full Stack Developer.
 
