@@ -10,7 +10,7 @@ Available for freelance projects and remote jobs.
 
 - Full Stack Developer with 5+ years of experience
 - Specialized in Laravel, Flutter, React, Node.js, Mysql and many more
-- Open source contributor - Creators Ticketing Plugin reached 2.5K+ downloads
+- Open source contributor - Creators Ticketing Plugin reached 3.5K+ downloads
 - Experience delivering CRM, e-commerce, and SaaS solutions for diverse clients
 
 ## Contact
